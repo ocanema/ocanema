@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Ocanema's github stats](https://github-readme-stats.vercel.app/api?username=ocanema&theme=cobalt&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ocanema&layout=compact&theme=cobalt)
+
 <!--
 **ocanema/ocanema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
